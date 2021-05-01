@@ -1,0 +1,9 @@
+{
+    "name": "com.wgabel.Servicer",
+    "displayName": "Servicer",
+    "version": "1.0.0",
+    "unity": "2020.3.0",
+    "description": "Simple Servicer package that adds SErvice handling nad constructor injection",
+    "keywords": ["key X", "key Y", "key Z"],
+    "category": "Serivces"
+}
