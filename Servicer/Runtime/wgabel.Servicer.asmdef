@@ -1,0 +1,10 @@
+{
+    "name": "wgabel.Services.Servicer",
+    "references": [
+      "Unity.Timeline"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
