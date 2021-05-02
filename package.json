@@ -1,7 +1,7 @@
 {
-  "name": "com.wgabel.servicer",
+  "name": "fertilesky.servicer",
   "displayName": "Servicer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "unity": "2020.3",
   "description": "Simple Servicer package that adds service handling nad constructor injection",
   "keywords": [
