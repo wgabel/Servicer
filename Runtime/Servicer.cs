@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Reflection;
 
-namespace wgabel.Systems
+namespace Fertilesky.Services
 {
     public static class Servicer
     {
