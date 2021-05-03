@@ -1,0 +1,8 @@
+{
+    "name": "Fertilesky.Services.Servicer",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
